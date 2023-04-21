@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="./index_white.png">
- <img src="./index_black.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanMusong/TanMusong/main/index_white.png">
+ <img src="https://raw.githubusercontent.com/TanMusong/TanMusong/main/index_black.png">
 </picture>
 
 # 游戏前端Bug开发工程师
