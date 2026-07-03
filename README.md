@@ -29,8 +29,3 @@ General: anything that gets the job done
 
 Check my pinned repositories for active work.
 
----
-
-## ☕ Support
-
-If my work helps you or inspires you, you can support me via Ko-fi.
