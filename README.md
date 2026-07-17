@@ -19,7 +19,7 @@ I enjoy working at the intersection of:
 
 ## 🧠 Tech I work with
 
-Game & systems: Unity · Godot · Lua  
+Game & systems: Unity · CocosCreator  
 Web & backend: Node.js · TypeScript · JavaScript  
 General: anything that gets the job done
 
